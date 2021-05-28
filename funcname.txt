@@ -1,0 +1,7 @@
+// ts+可替换方法名
+
+sgcText
+wqwText
+
+// ts+可替换类名
+SGCViewController
